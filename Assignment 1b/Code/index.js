@@ -1,6 +1,7 @@
 data = []
 
-$("button").click(() => {
+$("button").click((e) => {
+    e.preventDefault();
     alert("Message Sent successfully!");
     const email = $("#inputEmail").val();
     const message = $("#inputMessage").val();
