@@ -1,4 +1,4 @@
 # WADL_Submission
 
-## All Assignment Code are within the Code sub folder
-## All Assignment Output Screenshots are within the Output sub folder
+### Code for All Assignments is within the "Code" sub folder
+### Output Screenshots for All Assignments are within the "Output" sub folder
